@@ -1,3 +1,3 @@
 ## Ikun 👋
 
-<img src="./ikun.webp" alt="Ikun" width="100%">
+<img src="./bg.png" alt="Ikun" width="100%">
